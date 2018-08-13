@@ -13,3 +13,22 @@ h1{
   font-weight: bold;
   color: white;
 }
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px
+  font-weight: bold;
+}
+
+.intermezzo{
+  background-image: url(../images/building.png);
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
