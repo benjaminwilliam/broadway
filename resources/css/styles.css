@@ -32,3 +32,13 @@ h3{
 p {
   font-size: 14px;
 }
+
+.btn-nav{
+  font-size: 18px;
+  color: white;
+}
+
+.footer{
+  background-color: dimgray;
+  text-align: left;
+}
