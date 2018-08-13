@@ -42,3 +42,8 @@ p {
   background-color: dimgray;
   text-align: left;
 }
+
+#copyright{
+  font-size: 11px;
+  color: white;
+}
